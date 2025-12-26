@@ -15,3 +15,4 @@ VAE: [ae.safetensors](https://huggingface.co/Comfy-Org/z_image_turbo/blob/main/s
 You can then load up or drag the following image in ComfyUI to get the workflow:
 
 ![Example](z_image_turbo_example.png)
+ا
